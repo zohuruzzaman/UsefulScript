@@ -47,3 +47,9 @@ pip install -r requirements.txt
 
 # 3 – launch notebooks
 jupyter lab notebooks/
+
+## Contributing
+PRs welcome; open an issue first if you’re planning a big change. Stick to PEP-8, keep dependencies minimal, and include a one-liner in the table above.
+
+## License
+MIT—use it, break it, ship it, just don’t sue me.
